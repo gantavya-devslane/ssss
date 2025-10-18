@@ -244,3 +244,4 @@ docs: update readme @ 2025-10-19T20:02:06+05:30
 refactor: clean logic @ 2025-10-19T10:34:25+05:30
 feat: improve performance @ 2025-10-18T15:37:11+05:30
 feat: improve performance @ 2025-10-18T21:59:23+05:30
+fix: edge case handling @ 2025-10-18T17:24:15+05:30
